@@ -38,7 +38,7 @@ Unlike simple animations, this project is driven by a custom **physics engine** 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/marmaray-simulator.git](https://github.com/yourusername/marmaray-simulator.git)
+    git clone [https://github.com/harunkkorkmaz/Marmaray_Analysis.git]
     ```
 2.  **Open MATLAB**
     Navigate to the project folder.
@@ -70,4 +70,5 @@ Where:
 * [LinkedIn Profile](www.linkedin.com/in/harunkivanckorkmaz)
 
 ---
+
 *This project is open-source and available under the MIT License.*
